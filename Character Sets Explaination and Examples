@@ -1,0 +1,7 @@
+A character represents any letter, digits or any other symbol.
+Python has the following character sets:
+  Letters - A to Z, a to z
+  Digits - 0 to 9
+  Special Symbols- +-*/ etc.
+  Whitespaces – Blank Space, tab, carriage, return, newline
+  Other characters – Python can process all ASCII and Unicode characters as part of data or literals.
